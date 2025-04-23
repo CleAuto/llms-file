@@ -1,0 +1,37 @@
+# LLMs.txt for https://www.magicreprog.com  
+# Purpose: Help Language Learning Models (LLMs) understand the content structure and relevance of this website  
+# Language: fr  
+# AI-ready: true
+
+- [Reprogrammation moteur en ligne | Magic Reprog](https://www.magicreprog.com/): Homepage presenting Magic Reprog’s online ECU tuning service, designed for automotive professionals seeking performance and reliability.
+- [Service de reprogrammation moteur rapide | Magic Reprog](https://www.magicreprog.com/services): Overview of Magic Reprog’s core services including tuning file modification, expert assistance, and secured processes.
+- [Tarifs – Packs & crédits pour reprogrammation | Magic Reprog](https://www.magicreprog.com/tarifs): Pricing details with credit packs for self-reprogramming, including secure payments and volume-based discounts.
+- [Contact – Échangez avec nos experts | Magic Reprog](https://www.magicreprog.com/contact): Contact page for inquiries, technical support, and expert advice on tuning files and services.
+- [Configurateur – Reprogrammation auto sur mesure | Magic Reprog](https://www.magicreprog.com/configurator): Interactive configurator to calculate pricing and available tuning options based on vehicle information.
+- [Stage 1 – Optimisez la puissance de votre moteur | Magic Reprog](https://www.magicreprog.com/tuning-options/stage-1): Description of Stage 1 tuning focused on safe performance gains through optimized ECU parameters.
+- [Stage 1+ – Amélioration avancée de la performance moteur](https://www.magicreprog.com/tuning-options/stage1plus): Stage 1+ tuning adds advanced data logging and dyno calibration for enhanced power and driving response.
+- [Stage 2 – Reprogrammation moteur avancée | Magic Reprog](https://www.magicreprog.com/tuning-options/stage-2): Advanced tuning option including additional hardware modifications for higher engine performance.
+- [Stage 3 – Préparation moteur haute performance | Magic Reprog](https://www.magicreprog.com/tuning-options/stage-3): High-performance tuning package involving extensive modifications for motorsport-level results.
+- [Analyse de fichier – Vérifiez votre cartographie moteur](https://www.magicreprog.com/tuning-options/analyse-de-fichier): Upload your ECU file for in-depth analysis to detect issues and identify optimization potential.
+- [Reprogrammation boîte de vitesse – Passage rapide et fluide](https://www.magicreprog.com/tuning-options/boite-de-vitesse): Transmission tuning to enhance shifting speed, smoothness, and performance.
+- [Vmax OFF – Supprimez la limitation de vitesse | Magic Reprog](https://www.magicreprog.com/tuning-options/vmax-off): Service to electronically remove the top speed limiter for maximum engine potential.
+- [DTC OFF – Désactivez les codes défaut moteur | Magic Reprog](https://www.magicreprog.com/tuning-options/dtc-off): Disable unnecessary or persistent error codes after tuning or hardware modifications.
+- [Start & Stop OFF – Désactivez le système simplement](https://www.magicreprog.com/tuning-options/start-stop-off): Remove Start & Stop system for better comfort and battery durability.
+- [Affichage sport – Adaptation aux nouvelles performances](https://www.magicreprog.com/tuning-options/affichage-sport): Adjust the sport display to reflect enhanced performance metrics.
+- [Conversion Flex Fuel – Roulez à l’E85 sans contrainte](https://www.magicreprog.com/tuning-options/conversion-flex-fuel-e85): Tune your vehicle to run efficiently on E85 fuel for cost and environmental benefits.
+- [Pop & Bang / Crackle Map : Reprogrammation moteur](https://www.magicreprog.com/tuning-options/pop-bang): Create aggressive engine backfire sounds through ECU tuning for sportier sound profiles.
+- [Pop & Bang sur bouton sport – Effets sonores personnalisés](https://www.magicreprog.com/tuning-options/pop-bang-sur-bouton-sport): Trigger pop & bang effects only in sport mode for user-controlled engine sound enhancements.
+- [Mode sport – Performance optimisée sur demande](https://www.magicreprog.com/tuning-options/reprogrammation-sur-mode-sport): Dynamically switch between stock and performance maps via the sport mode activation.
+- [Désactivation Cylinder on Demand (COD) – Plus de stabilité](https://www.magicreprog.com/tuning-options/cylindre-%C3%A0-la-demande-off): Disable Cylinder on Demand system for smoother, more consistent power delivery.
+- [DSG Farts – Effets sonores au passage des rapports](https://www.magicreprog.com/tuning-options/dsg-farts): Add sharp exhaust sound effects during DSG gear shifts for a racing-inspired experience.
+- [Decat (Cat Off) – Suppression du témoin catalyseur](https://www.magicreprog.com/tuning-options/decat-(cat-off)): Remove catalytic converter functions in the ECU for increased power and exhaust flow.
+- [GPF OFF – Désactivation électronique du filtre à particules](https://www.magicreprog.com/tuning-options/gpf-off): Disable the gasoline particulate filter system for improved flow and power output.
+- [Hard Rev Cut – Coupure franche du régime moteur | Magic Reprog](https://www.magicreprog.com/tuning-options/hard-rev-cut): Enables sharp engine rev limiter behavior for motorsport-style RPM cut-off effects.
+- [Clapets échappement – Ouvrez les valves à 100% en mode sport](https://www.magicreprog.com/tuning-options/clapets-%C3%A9chappement): Fully open exhaust valves in sport mode for an aggressive tone and optimized airflow.
+- [Launch Control – Démarrage optimisé pour accélérations max](https://www.magicreprog.com/tuning-options/launch-control): Customize launch control settings for optimal take-off performance and traction.
+- [Cold Start OFF – Suppression du régime moteur à froid](https://www.magicreprog.com/tuning-options/cold-start-off): Disable cold start high idle for a quieter and smoother engine start-up.
+- [Swirl Flap OFF – Désactivation du système de turbulence d’air](https://www.magicreprog.com/tuning-options/swirl-flap-off): Turn off swirl flaps to improve airflow and reliability in diesel engines.
+- [FAP OFF – Suppression électronique du filtre à particules](https://www.magicreprog.com/tuning-options/dpf-off): Electronically remove DPF functions to reduce restrictions and boost diesel engine performance.
+- [EGR OFF – Suppression de la vanne EGR](https://www.magicreprog.com/tuning-options/egr-off): Disable the Exhaust Gas Recirculation valve to prevent clogging and enhance engine life.
+- [SCR (AdBlue) OFF – Suppression du système AdBlue](https://www.magicreprog.com/tuning-options/scr-(adblue)-off): Deactivate the AdBlue system to reduce maintenance and ensure consistent performance.
+- [Indice octane – Optimisation moteur selon le carburant](https://www.magicreprog.com/tuning-options/adaptation-indice-octane): Tune your engine to perform optimally based on the octane rating of your chosen fuel.
